@@ -15,7 +15,7 @@ This is a Web Application written using Node.JS/Express.js for creating a band n
 
 • [License](https://github.com/pinkozz/band-name-generator#license)
 # Features
-• User friendly interactions through a Web Page
+• User friendly interactions through a Web Browser
 
 • Huge words base, so you will get almost unique band name every time
 
